@@ -1,1 +1,1 @@
-# gitflow-vt Version : 0.0.1
+# gitflow-vt Version : 0.0.2
